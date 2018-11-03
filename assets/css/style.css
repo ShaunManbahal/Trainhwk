@@ -1,0 +1,26 @@
+.container {
+	width:70%;
+}
+
+body {
+	background-color: azure;
+}
+
+.jumbotron {
+	background-color: brown;
+	background-size: 920px;
+	background-position: center;
+	color:rgb(8, 8, 8);
+	margin-top:15px;
+}
+
+footer {
+	text-align:center;
+	background-color:transparent;
+	color:hotpink;
+
+}
+
+form {
+	margin:10px;
+}
